@@ -1,6 +1,8 @@
 # FAST-NUCES-FLEX-Management-System
 ![image](https://github.com/Zamehi/FAST-NUCES-FLEX-Management-System/assets/129313428/8dc9f2ad-f91c-478c-9195-ddee98d133f6)
 
+![image](https://github.com/Zamehi/FAST-NUCES-FLEX-Management-System/assets/129313428/01a570d7-8b38-4458-bfb3-5a412ce7db44)
+
 A FLEX system is a database management system of FAST NUCES which involves designing and implementing a database to manage and schedule university students’ academic information. This type of system would allow the university to manage various aspects of student management, such as enrollment, course registration, scheduling, and student performance tracking. With a flex management system, students would be able to access and manage their academic information and schedules, while the university would be able to manage its resources and course offerings more effectively. The goal of a flex management system for students at Fast NUCES would be to improve the overall academic experience for students and optimize the university's operations.
 There are many users involved in this system so the basic thing which you need to perform is a User Management. FLEX system database may have many users. Each user must have a user account. In the system which you are designing roles are Academic Officers, Faculty, and Students.
 Flex is a system in which you just have to implement the features which are mentioned in the document. Do not add extra features to the system. Follow the requirements strictly. Make proper Sign Up, Login for each role. Some of the requirements might include user-friendly interfaces, efficient data processing, security and privacy, scalability, and integration with other systems.

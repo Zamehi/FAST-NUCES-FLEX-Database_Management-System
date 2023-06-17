@@ -1,0 +1,174 @@
+﻿/* set styles for the left navigation bar */
+
+
+.content {
+    margin-left: 300px;
+    font-size: 20px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+nav {
+    overflow: auto;
+    height: 50px;
+    position: fixed;
+    top: 0px;
+    left: 22px;
+    width: 200px;
+    height: 100%;
+    padding: 20px;
+    background-color: dodgerblue;
+    margin-right: 6px;
+}
+
+    nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    nav li {
+        margin-bottom: 10px;
+    }
+
+    nav a {
+        color: #fff;
+        text-decoration: none;
+    }
+
+/* set styles for the two boxes on the right side */
+.container {
+    margin-left: 200px;
+    padding: 20px;
+    display: block;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.box {
+    margin-top: 40px;
+    width: 45%;
+    margin-left: 350px;
+    border: 1px solid #333;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+
+.box121 {
+    margin-top: 80px;
+    margin-left: 350px;
+    left: 100px;
+    width: 45%;
+    border: 1px solid #333;
+    padding: 20px;
+    margin-bottom: 200px;
+    border-radius: 12px;
+}
+
+.xx {
+    color: white;
+    font-size: 25px;
+    font-palette: dark;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+    margin-bottom: 20%;
+}
+
+.navxx {
+    position: center;
+    bottom: 0px;
+    left: 0;
+    width: 80px;
+    white-space: nowrap; /* Prevent the items from wrapping */
+}
+
+    .navxx li a:hover {
+        background-color: #ffffff;
+    }
+
+    .navxx li a {
+        display: block;
+        -webkit-text-decoration: inherit;
+        text-decoration: inherit;
+        height: 148px;
+        width: 167px;
+    }
+
+
+.box h2 {
+    font-size: 24px;
+    margin-top: 0;
+}
+
+.box p {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.section {
+    margin-left: 260px;
+    margin-top: 100px;
+}
+
+.heading {
+    margin-top: 10px;
+    margin-left: 150px;
+}
+
+.EVhead {
+    margin-top: 70px;
+    margin-left: 1100px;
+}
+
+.table1 {
+    margin-left: 100px;
+    margin-top: 120px;
+}
+
+
+table {
+    margin-top: 50px;
+    margin-left: 300px;
+    border-collapse: collapse;
+    margin-right: 0px;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+    border: 1px solid black;
+}
+
+th {
+    background-color: #ddd;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.dropCourse {
+    margin-left: 450px;
+    height: 40%;
+    margin-top: 60px;
+    border-radius: 12px;
+}
+
+.active {
+    background-color: #41c8fb;
+    color: white;
+}
+
+.CourseButton {
+    height: 80px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.DD {
+    background-color: dodgerblue
+}
